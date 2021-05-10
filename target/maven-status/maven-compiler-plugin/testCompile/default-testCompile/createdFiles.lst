@@ -1,0 +1,9 @@
+com\iclickBankingPageObjects\AddCustomerPage.class
+com\iclickBankingTestCases\BaseClass.class
+com\iclickBankingTestCases\TC_AddCustomerTest_003.class
+com\iclickBankingTestCases\TC_LoginTest_001.class
+com\iclickBankingPageObjects\LoginPage.class
+com\iclickBankingUtilities\Reporting.class
+com\iclickBankingUtilities\XLUtils.class
+com\iclickBankingTestCases\TC_LoginDDT_002.class
+com\iclickBankingUtilities\ReadConfig.class
